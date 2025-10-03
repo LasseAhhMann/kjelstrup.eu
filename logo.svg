@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 60" height="50">
+    <polygon points="10,50 25,20 40,35 55,5" fill="#ff6600"/>
+    <text x="60" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="bold" fill="white">
+        Kjelstrup Invest ApS
+    </text>
+ </svg>
